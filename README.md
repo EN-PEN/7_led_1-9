@@ -28,3 +28,4 @@ void loop() {
   
 }
 ```
+圖如下：![image](https://github.com/EN-PEN/7_led_1-9/blob/main/IMG20210302102104.jpg)
